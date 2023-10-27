@@ -106,7 +106,9 @@ function NoteCard({ id, title, tags }: SimplifiedNote) {
 							direction="horizontal"
 							className="justify-content-center flex-wrap">
 							{tags.map((tag) => (
-								<Badge className="text-truncate" key={tag.id}>
+								<Badge
+									className="text-truncate d-flex align-items-center"
+									key={tag.id}>
 									{tag.label}
 								</Badge>
 							))}
