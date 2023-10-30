@@ -2,7 +2,8 @@
 
 This simple app makes it possible to take notes and use the advantages of markdown support to format them as you wish. You can add tags, and edit/delete everything: notes titles, notes bodies, tags.
 
-![app screenshot]("./src/assets/screenshot-note-app1") 
+![app screenshot](https://github.com/AnnaHittaller/ts-react-notes/blob/main/src/assets/screenshot-note-app1.png) 
+![app screenshot](https://github.com/AnnaHittaller/ts-react-notes/blob/main/src/assets/screenshot-note-app2.png) 
 
 
 ## Tech stack
